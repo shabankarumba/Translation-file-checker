@@ -1,0 +1,19 @@
+en:
+  signup:
+    error:
+      password_too_short:
+      email_required:
+    success: "fff"
+  homepage:
+    header:
+    tagline:
+  robots:
+    gort:
+    hadaly:
+    gir:
+  purchase:
+    error:
+      card_declined:
+      card_invalid:
+      address_required:
+    success: 

@@ -1,0 +1,19 @@
+en:
+  signup:
+    error:
+      password_too_short: "Your password is too short."
+      email_required: "You must provide an email."
+    success: "Welcome!"
+  homepage:
+    header: "Kitchen Buddies Ltd"
+    tagline: "Building friends in the home since 2009."
+  robots:
+    gort: "Gort is good at baking cakes."
+    hadaly: "Hadaly can hoover up in no time!"
+    gir: "GIR can blend anything."
+  purchase:
+    error:
+      card_declined: "Your card was declined."
+      card_invalid: "You must provide a valid credit card number."
+      address_required: "You must provide a billing address."
+    success: "Thank you for your purchase."

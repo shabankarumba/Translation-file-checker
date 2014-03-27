@@ -1,0 +1,19 @@
+en:
+  signup:
+    error:
+      password_too_short:
+      email_required:
+    success:
+  homepage:
+    header: "Kitchen Buddies Ltd"
+    tagline:
+  robots:
+    gort: "Gort est bon à la cuisson des gâteaux."
+    hadaly:
+    gir: "GIR peut mélanger n'importe quoi."
+  purchase:
+    error:
+      card_declined: "Votre carte a été refusée."
+      card_invalid: "Vous devez fournir un numéro de carte de crédit valide."
+      address_required: "Vous devez fournir une adresse de facturation."
+    success: "Nous vous remercions de votre achat."

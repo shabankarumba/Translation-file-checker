@@ -1,0 +1,19 @@
+it:
+  signup:
+    error:
+      password_too_short:
+      email_required:
+    success: "Benvenuto!"
+  homepage:
+    header: "Kitchen Buddies Ltd"
+    tagline:
+  robots:
+    gort: "Gort è bravo a cuocere torte."
+    hadaly: "Hadaly può aspirapolvere in pochissimo tempo!"
+    gir: "GIR può mescolare tutto."
+  purchase:
+    error:
+      card_declined: "La tua carta è stata rifiutata."
+      card_invalid: "È necessario fornire un numero di carta di credito valida."
+      address_required: "È necessario fornire un indirizzo di fatturazione."
+    success:

@@ -1,0 +1,19 @@
+en:
+  signup:
+    error:
+      password_too_short:
+      email_required: "Rhaid i chi roi neges e-bost."
+    success: "Croeso!"
+  homepage:
+    header: "Kitchen Buddies Ltd"
+    tagline: "Adeiladu ffrindiau yn y cartref ers 2009."
+  robots:
+    gort: "Gort yn dda am cacennau pobi. "
+    hadaly: "Gall Hadaly hwfro i fyny mewn dim o amser!"
+    gir: "Gall GIR cydweddu unrhyw beth."
+  purchase:
+    error:
+      card_declined: "Eich cerdyn ei wrthod."
+      card_invalid:
+      address_required:
+    success:

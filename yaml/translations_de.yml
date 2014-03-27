@@ -1,0 +1,19 @@
+en:
+  signup:
+    error:
+      password_too_short: "Ihr Passwort ist zu kurz."
+      email_required: "Sie müssen eine E-Mail zur Verfügung stellen."
+    success: "Herzlich Willkommen!"
+  homepage:
+    header: "Kitchen Buddies Ltd"
+    tagline: "Aufbauend Freunden in der Heimat seit 2009."
+  robots:
+    gort:
+    hadaly:
+    gir: "GIR kann alles mischen."
+  purchase:
+    error:
+      card_declined:
+      card_invalid:
+      address_required: "Sie müssen eine Rechnungsadresse einzugeben."
+    success: "Vielen Dank für Ihren Einkauf."
